@@ -1,0 +1,26 @@
+.content_holder {
+	margin: 0 auto;
+	width: 80%;
+	border: solid thin #CCCCCC;
+	padding: 2%;
+	overflow: hidden;
+}
+#myCarousel {
+	float: left;
+	width: 50%;
+}
+#registration {
+	float: right;
+	width: 40%;
+}
+#loginModal {
+	text-align: center;
+}
+.wrap {
+	text-align: center;
+	width: 75.1%;
+	margin: 0 auto;
+	margin-top: 0%;
+	border-right: solid thin #CCCCCC;
+	border-left: solid thin #CCCCCC;
+}
